@@ -1,1 +1,1 @@
-web: gunicorn support_ticket.wsgi
+web: gunicorn support_ticket_system_main.support_ticket.wsgi
